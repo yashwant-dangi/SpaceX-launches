@@ -1,3 +1,6 @@
+# SpaceX-launches
+A front-end application build with Next.js which would help users list and browse all launches by SpaceX program.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
