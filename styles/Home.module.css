@@ -150,6 +150,6 @@
 }
 .button:focus {
   outline: none 0px;
-  background-color: #7cba00;
-  border: 1px solid #37ca57
+  /* background-color: #7cba00; */
+  /* border: 1px solid #37ca57; */
 }
